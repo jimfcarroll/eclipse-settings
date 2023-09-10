@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <profiles version="2">
-    <profile kind="CleanUpProfile" name="kognition-development" version="2">
+    <profile kind="CleanUpProfile" name="jims-cleanup" version="2">
         <setting id="cleanup.use_autoboxing" value="false"/>
         <setting id="cleanup.remove_redundant_semicolons" value="false"/>
         <setting id="cleanup.system_property_file_separator" value="false"/>
